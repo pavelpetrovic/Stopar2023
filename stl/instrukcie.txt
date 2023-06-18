@@ -1,0 +1,44 @@
+vsetky subory tlacit v povodnej orientacii
+
+spacer SRP m2:
+infil: 0%
+po vytlaceni sa zlomi tam kde treba
+2x vzadu/vpredu (aspon 1x)
+(je urceny pre pololu senzor, 
+alternativne treba pouzit 
+spacer microbit.stl
+pre Kitronik senzor)
+
+SRP motor clamp:
+infil: 100%
+pri srobovani skrutiek treba drzat vsetky strany aby sa diel nahodou nezlomil
+2x vlavo/vpravo
+
+SRP plate v4:
+infil: 100%
+
+ultrasonic mount 3:
+infil: 100%
+vkladat ultrazvuk opatrne
+2x vpredu/vzadu (aspon 1x)
+
+Improvements by Hana Hornackova: 
+ultrasonic mount 3.1
+
+m2 10mm; min 5ks; max 9ks
+m2 nut; min 1ks; max 6ks
+m3 22mm; min 6ks; max 6ks
+m3 12mm; min 2ks; max 2ks
+m3 8mm; min 4ks; max 4ks (v profil hlavicka/zapusteny)
+m3 nut; min 10ks; max 18ks
+
+1/2x pololu 0j7448	sonzor ciary    (nahrada: Kitronik Clippable Detection Board V1.0 (5678))
+1/2x hc-sr04		ultrazvuk
+2x dc motor 12v s prevodovkou
+2x koliesko biela plast; cierna guma pneu
+1x arduino nano strong
+1x radic motory
+2x icr 14500 1300mah 3.7v
+1x drziak bateriek 2x AA
+19x kabel female-female
+1x gulicka (3tie koleso); drziak biela plast
